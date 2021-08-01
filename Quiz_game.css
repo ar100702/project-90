@@ -1,0 +1,65 @@
+body
+{
+	background:#64337D;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: #FFDBE6;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	border: 5px;
+	border-style: solid;
+	border-color: #64337D;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background:DF6589;
+border-radius: 10px;
+border-top: 10px solid #DF6589;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1 {
+	color: #DF6589;
+}
+button{
+	width: 30%;
+	border: 5px;
+	border-style: solid;
+	border-color: #DF6589;
+	background-color: #FFDBE6;
+	color: #64337D;
+}
+
+label , h3{
+	color: #64337D;
+}
+#button_send , #button_check{
+	border: 5px;
+	border-style: solid;
+	border-color: #DF6589;
+	background-color: #FFDBE6;
+	color: #64337D;
+}
+#number1 , #number2{
+	color:#FFDBE6;
+	font-size: medium;
+}
